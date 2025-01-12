@@ -1,2 +1,1 @@
-# Kaggle-Diamonds
-Kaggle Competition
+Здесь в скором времени появятся блокноты с соревнований
