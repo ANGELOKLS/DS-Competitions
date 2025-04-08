@@ -10,6 +10,7 @@
 3) NLP
 - Sentiment.ipynb
 - Emotions.ipynb
+- NLP_LLM_Topic_Modeling.ipynb
 
 4) Другие
 - GEOML.ipynb
