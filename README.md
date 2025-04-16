@@ -12,7 +12,10 @@
 - Emotions.ipynb
 - NLP_LLM_Topic_Modeling.ipynb
 
-4) Другие
+4) Computer vision
+- CV_fmnist_classification.ipynb
+
+5) Другие
 - GEOML.ipynb
 - GEO_embeddings.ipynb
 
