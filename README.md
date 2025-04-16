@@ -13,6 +13,7 @@
 - NLP_LLM_Topic_Modeling.ipynb
 
 4) Computer vision
+- CV_mnist_classification.ipynb
 - CV_fmnist_classification.ipynb
 
 5) Другие
