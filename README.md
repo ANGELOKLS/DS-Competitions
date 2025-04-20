@@ -11,6 +11,7 @@
 - Sentiment.ipynb
 - Emotions.ipynb
 - NLP_LLM_Topic_Modeling.ipynb
+- Коммерсант_parser_and_lda_topics.ipynb
 
 4) Computer vision
 - CV_mnist_classification.ipynb
